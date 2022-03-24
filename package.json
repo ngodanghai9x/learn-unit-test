@@ -1,0 +1,29 @@
+{
+  "name": "learn-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngodanghai9x/learn-unit-test.git"
+  },
+  "keywords": [
+    "unit-test"
+  ],
+  "author": "Ngo Dang Hai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngodanghai9x/learn-unit-test/issues"
+  },
+  "homepage": "https://github.com/ngodanghai9x/learn-unit-test#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2",
+    "jest": "^27.5.1"
+  }
+}
